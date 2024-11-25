@@ -36,5 +36,5 @@ Hello, my name is Carlos Garcia, a backend software developer with 1 year of exp
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="Images/mysql.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
