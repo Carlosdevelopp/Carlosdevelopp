@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **Carlosdevelopp/Carlosdevelopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +38,21 @@ Hello, my name is Carlos Garcia, a backend software developer with 1 year of exp
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
+
+## Projects
+
+<a href="https://github.com/Carlosdevelopp/CRUD_Movies_Store">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+
+</a>  
+
+<a href="https://github.com/Carlosdevelopp/carlosdevelopp.github.io">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+
+</a> 
