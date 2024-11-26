@@ -39,9 +39,7 @@ Hello, my name is Carlos Garcia backend software developer with 1 year of experi
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=carlosdevelopp&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevelopp&hide=TeX&layout=compact)
 
-<a href="https://github.com/carlosdevelopp">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosdevelopp&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlosdevelopp.carlosdevelopp)
