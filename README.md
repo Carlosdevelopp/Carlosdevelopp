@@ -41,9 +41,7 @@ Hello, my name is Carlos Garcia backend software developer with 1 year of experi
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/carlosdevelopp">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosdevelopp&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
