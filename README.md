@@ -43,4 +43,3 @@ Hello, my name is Carlos Garcia, a backend software developer with 1 year of exp
 
 [![](https://github-readme-stats.vercel.app/api?username=carlosdevelopp&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/carlosdevelopp)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=carlosdevelopp&theme=material-palenight)](https://github.com/carlosdevelopp)
-</div>
