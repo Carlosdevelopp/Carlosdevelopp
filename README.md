@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Carlos Garcia, a backend software developer with 1 year of experience. My technology stack includes ASP.NET Core, databases, SQL, and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music and sports.
+Hello, my name is Carlos Garcia backend software developer with 1 year of experience. My technology stack includes ASP.NET Core, databases, SQL, and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music and sports.
 
 - ⚡ I'm currently building projects and solving code problems on platforms to improve my logical and mathematical thinking; I'm also focusing on learning about software architecture, agile methodologies, and design patterns.
 - 💬 Exchange ideas with me about technology, music, and sports.
