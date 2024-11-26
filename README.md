@@ -39,7 +39,11 @@ Hello, my name is Carlos Garcia, a backend software developer with 1 year of exp
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdevelopp&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdevelopp&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<a href="https://github.com/carlosdevelopp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosdevelopp&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
