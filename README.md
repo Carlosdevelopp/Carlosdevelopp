@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/carlosdevel/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/carlosdevelopp" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://exercism.org/profiles/Carlosdevelopp" title="Exercism Profile"><img width="22" src="images/exercism.png"> Exercism</a></code>
   <code><a href="https://www.instagram.com/carlos_dream._/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
