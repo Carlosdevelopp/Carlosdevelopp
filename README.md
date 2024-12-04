@@ -45,7 +45,7 @@ Hello, my name is Carlos Garcia backend software developer with 1 year of experi
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Photoshop" height="25" src="images/photoshop.png"></code>
+  <code><img title="Photoshop" height="25" src="images/_photoshop.png"></code>
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
