@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </h5>
 <br>
 
-Hola, me llamo Carlos García Velázquez, programador backend con más de un año de experiencia. Mi stack tecnológico incluye ASP.NET Core, bases de datos, SQL y HTML/CSS/Bootstrap. Además de la programación, me apasionan la música y los deportes.
+Hola, soy Carlos García Velázquez, programador backend con más de un año de experiencia en el desarrollo de soluciones tecnológicas. Mi stack principal incluye ASP.NET Core, bases de datos, SQL, Git para control de versiones y tecnologías frontend como HTML, CSS y Bootstrap. Fuera de la programación, me apasionan la música y el deporte, actividades que me permiten mantener un equilibrio creativo y productivo en mi trabajo.
 
 - ⚡ I'm currently building projects and solving code problems on platforms to improve my logical and mathematical thinking; I'm also focusing on learning about software architecture, agile methodologies, and design patterns.
 - 💬 Exchange ideas with me about technology, music, and sports.
