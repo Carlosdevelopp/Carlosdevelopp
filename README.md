@@ -55,7 +55,7 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
   <code><img title="Photoshop" height="25" src="images/photoshop.png"></code>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de Github
 
 <!--- stats & Trophy (start) -->
 <p align="center">
