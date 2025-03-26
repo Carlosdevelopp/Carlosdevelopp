@@ -33,6 +33,10 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
 
 💬 Intercambia ideas conmigo sobre tecnología, música y deportes.
 
+📫 Cómo contactarme: carlosdevelopp@gmail.com
+
+📝
+
 ## 🛠️ Languages & Frameworks & Tools & Abilities 🔥
 
 <p align="center">
