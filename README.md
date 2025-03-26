@@ -37,7 +37,7 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
 
 📝
 
-## 🛠️ Languages & Frameworks & Tools & Abilities 🔥
+## 🛠️ Idiomas & Frameworks & Herramientas & Habilidades 🔥
 
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
