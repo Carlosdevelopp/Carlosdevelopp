@@ -30,11 +30,8 @@ Here are some ideas to get you started:
 Hola, soy Carlos García Velázquez, programador backend con más de un año de experiencia en el desarrollo de soluciones tecnológicas. Mi stack principal incluye ASP.NET Core, bases de datos, SQL, Git para control de versiones y tecnologías frontend como HTML, CSS y Bootstrap. Fuera de la programación, me apasionan la música y el deporte, actividades que me permiten mantener un equilibrio creativo y productivo en mi trabajo.
 
 ⚡ Actualmente estoy construyendo proyectos y resolviendo problemas de código en plataformas para mejorar mi pensamiento lógico y matemático; también me estoy enfocando en aprender sobre arquitectura de software, metodologías ágiles y patrones de diseño.
-
 💬 Intercambia ideas conmigo sobre tecnología, música y deportes.
-
 📫 Cómo contactarme: carlosdevelopp@gmail.com
-
 📝
 
 ## 🛠️ Idiomas & Frameworks & Herramientas & Habilidades 🔥
