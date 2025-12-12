@@ -1,9 +1,17 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-## 👋 
-Hola, Bienvenido@
+<br/>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, soy Carlos</h1></summary>
+  </ul>
+</div>
+
+##
 <!--
 **Carlosdevelopp/Carlosdevelopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +46,8 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
 📝
 
 ## 🛠️ Idiomas & Frameworks & Herramientas & Habilidades 🔥
+
+<br/>
 
 <p align="center">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
@@ -78,14 +88,10 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
   </td>
 </tr>
 </table>
+
 <!--- stats (end) -->
 
-## 👨‍💻 Repositorios 
-<br>
-<div width="100%" align="center">
-  
-</div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosdevelopp.carlosdevelopp" alt="carlosdevelopp" />
