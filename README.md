@@ -81,12 +81,7 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
 ## 👨‍💻 Repositorios 
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/Carlosdevelopp/CRUD_Movies_Store" title="CRUD_Movies_Store">
-    <img align="left" margin=20px; height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlosdevelopp&repo=CRUD_Movies_Store&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/Carlosdevelopp/carlosdevelopp.github.io" title="carlosdevelopp.github.io">
-    <img align="right" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlosdevelopp&repo=carlosdevelopp.github.io&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+  
 </div>
 <br/><br/><br/><br/><br/><br/>
 
