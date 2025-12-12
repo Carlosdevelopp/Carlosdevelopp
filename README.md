@@ -73,8 +73,8 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
   <!--- stats (start) -->
 <table align="center">
   <a href="https://github.com/carlosdevelopp">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosdevelopp&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosdevelopp&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </table>
 <!--- stats (end) -->
