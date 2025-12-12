@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <code><a href="https://exercism.org/profiles/Carlosdevelopp" title="Exercism Profile"><img width="22" src="images/exercism.png"> Exercism</a></code>
   <code><a href="https://www.instagram.com/carlos_dream._/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+
 <br>
 
 Hola, soy Carlos García Velázquez, programador backend con más de un año de experiencia en el desarrollo de soluciones tecnológicas. Mi stack principal incluye ASP.NET Core, bases de datos, SQL, Git para control de versiones y tecnologías frontend como HTML, CSS y Bootstrap. Fuera de la programación, me apasionan la música y el deporte, actividades que me permiten mantener un equilibrio creativo y productivo en mi trabajo.
@@ -68,13 +69,14 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de Github
+
 <br/>
 
   <!--- stats (start) -->
 <table align="center">
-  <a href="https://github.com/carlosdevelopp">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosdevelopp&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Carlosdevelopp">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlosdevelopp&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </table>
 <!--- stats (end) -->
@@ -87,4 +89,6 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
   <a href="https://github.com/carlosdevelopp/"><img src="https://img.shields.io/github/last-commit/carlosdevelopp/carlosdevelopp?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
+<!--- footer (start)  -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+<!--- footer (end)  -->
