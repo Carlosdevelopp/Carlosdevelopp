@@ -45,13 +45,15 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title=".Net Core" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="Bootstrap" height="27" src="images/bootstrap-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="SQL Server" height="25" src="images/microsoftsqlserver-plain.svg"></code>
   <code><img title="Photoshop" height="25" src="images/photoshop.png"></code>
 </p>
 
@@ -85,4 +87,10 @@ Hola, soy Carlos García Velázquez, programador backend con más de un año de 
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlosdevelopp.carlosdevelopp)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosdevelopp.carlosdevelopp" alt="carlosdevelopp" />
+    <a href="https://github.com/carlosdevelopp/"><img src="https://img.shields.io/github/followers/carlosdevelopp?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/carlosdevelopp/"><img src="https://img.shields.io/github/last-commit/carlosdevelopp/carlosdevelopp?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
