@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 <br>
 
-Hola, soy Carlos García Velázquez, desarrollador backend con experiencia en la creación de soluciones tecnológicas. Mi stack principal incluye ASP.NET Core, bases de datos SQL y Git para el control de versiones, además de tecnologías frontend como HTML, CSS y Bootstrap. Fuera de la programación, me apasionan la música y el deporte, actividades que me ayudan a mantener un equilibrio creativo y productivo en mi trabajo.
+Hola, soy Carlos García Velázquez, desarrollador backend con experiencia en la creación de soluciones tecnológicas.
+Mi stack principal incluye ASP.NET Core, C#, bases de datos SQL (SQL Server y MySQL), Entity Framework Core, ADO.NET y Git para el control de versiones, además de tecnologías frontend como HTML, CSS, Bootstrap y Blazor.
+Fuera de la programación, me apasionan la música y el deporte, actividades que me ayudan a mantener un equilibrio creativo y productivo en mi trabajo.
 
 ⚡ Actualmente estoy desarrollando proyectos y resolviendo desafíos de programación en distintas plataformas para fortalecer mi pensamiento lógico y matemático. También me encuentro aprendiendo sobre arquitectura de software, metodologías ágiles y patrones de diseño.
 
