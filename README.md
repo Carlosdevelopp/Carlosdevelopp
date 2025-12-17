@@ -77,9 +77,13 @@ Fuera de la programación, me apasionan la música y el deporte, actividades que
 <br/>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosdevelopp.carlosdevelopp" alt="carlosdevelopp" />
-    <a href="https://github.com/carlosdevelopp/"><img src="https://img.shields.io/github/followers/carlosdevelopp?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/carlosdevelopp/"><img src="https://img.shields.io/github/last-commit/carlosdevelopp/carlosdevelopp?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosdevelopp.carlosdevelopp" alt="Visitas" />
+  <a href="https://github.com/carlosdevelopp/">
+    <img src="https://img.shields.io/github/followers/carlosdevelopp?style=flat-square&color=4CC61E&label=GitHub%20Followers" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/carlosdevelopp/">
+    <img src="https://img.shields.io/github/last-commit/carlosdevelopp/carlosdevelopp?style=flat-square&color=red&label=Last%20Updated" alt="Última actualización" />
+  </a>
 </p>
 
 <!--- footer (start)  -->
