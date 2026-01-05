@@ -67,10 +67,18 @@ Fuera de la programación, me apasionan la música y el deporte, actividades que
 
   <!--- stats (start) -->
 <table align="center">
-  <a href="https://github.com/Carlosdevelopp">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlosdevelopp&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
+  <tr>
+    <td>
+      <a href="https://github.com/Carlosdevelopp">
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlosdevelopp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Carlosdevelopp">
+        <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlosdevelopp&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+  </tr>
 </table>
 <!--- stats (end) -->
 
